@@ -1,7 +1,7 @@
 # 勤怠管理システム<br>
 ## 環境構築<br>
 ### Dockerビルド<br>
-1.<br>
+1.git@github.com:shimezi/attendance-system.git<br>
 2.docker-compose up -d --build<br>
 3.
 ### Laravel環境構築<br>
